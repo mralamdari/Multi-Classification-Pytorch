@@ -1,2 +1,2 @@
 # Multi Classification with Pytorch
-In this repository
+In this repository you'll learn how to 
